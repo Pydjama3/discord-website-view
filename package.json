@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "capture-website": "^2.3.0",
+    "discord.js": "^13.6.0",
+    "request": "^2.88.2"
+  }
+}
