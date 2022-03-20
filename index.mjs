@@ -56,7 +56,7 @@ client.on("messageCreate", async(message) =>{
 
     let date = new Date().toJSON().replace(".", "-").replace(":", "-").replace(":", "-") //file name 
 
-    // load the files
+    // load the files from discord
     await download(css, "css", "./files/"+date) 
     await download(html, "html", "./files/"+date)
 
