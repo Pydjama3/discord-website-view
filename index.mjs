@@ -86,4 +86,4 @@ client.on("messageCreate", async(message) =>{
 })
 
 // login
-client.login('NjkzMTUyNjE5OTkyMTg2OTgw.Xn46rg.gwrwV-mdwcvw_GFW9Ap7kiv6NdM')
+client.login('YOUR TOKEN')
