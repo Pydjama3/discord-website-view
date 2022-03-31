@@ -27,3 +27,7 @@ Description:
 3. Replace `'YOUR TOKEN'` line 89 of index.mjs by your token
 4. run it: `node index.mjs`
 5. Do whatever you want with the code
+
+## TODO
+- [x] Show website code images
+- [ ] Previews of websites by link
